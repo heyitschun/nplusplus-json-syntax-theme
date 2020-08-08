@@ -2,7 +2,7 @@ Keyword highlighting for JSON files in Notepad++.
 
 # Screenshot
 
-![JSON](https://github.com/heyitschun/vim-seven/blob/master/screenshot.png?raw=true)
+![JSON](https://raw.githubusercontent.com/heyitschun/nplusplus-json-syntax-theme/master/screenshot.png)
 
 # Install (Windows)
 
