@@ -1,4 +1,4 @@
-Keyword highlighting for JSON files in Notepad++.
+Give your JSON files some color when you view them in Notepad++.
 
 # Screenshot
 
